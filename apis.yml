@@ -1,12 +1,11 @@
 aid: goodfirms
-url: 
-  https://raw.githubusercontent.com/api-evangelist/goodfirms/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/goodfirms/refs/heads/main/apis.yml
 apis: []
 name: GoodFirms
 tags:
-  - Software Reviews
   - B2B
   - IT Services
+  - Software Reviews
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
